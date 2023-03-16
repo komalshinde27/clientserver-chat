@@ -1,1 +1,1 @@
-serverclient-chat
+A client-server chat application
